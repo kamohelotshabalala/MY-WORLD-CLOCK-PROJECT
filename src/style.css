@@ -1,8 +1,11 @@
 body{
-    background-color: brown;
+    background-color:;
 }
 .storage{
     max-width: 600;
+}
+h1{
+    text-align: center;
 }
 footer{
     text-align: center;
