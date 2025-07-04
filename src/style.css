@@ -1,3 +1,9 @@
 body{
     background-color: brown;
 }
+.storage{
+    max-width: 600;
+}
+footer{
+    text-align: center;
+}
