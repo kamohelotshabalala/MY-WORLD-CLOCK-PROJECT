@@ -19,6 +19,9 @@ h2{
     margin: 0 0 10px;
     font-size: 28px;
 }
+a{
+    color: #9a18d5;
+}
 .storage{
     max-width: 600px;
     margin: 60px auto;
